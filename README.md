@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 ![SIEM](https://img.shields.io/badge/SIEM-Wazuh%204.7-blue?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-VirtualBox-183A61?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Vmware-183A61?style=flat-square)
 ![Attacker](https://img.shields.io/badge/Attacker-Kali%20Linux-557C94?style=flat-square)
 
 ---
